@@ -21,10 +21,10 @@ contact: >
   <a href="https://github.com/toiletCommander/blog/issues/1">Contact Me!</a>
 
 nav_pages: 
-  - name: about
-  - name: publications
-  - name: talks
+  #- name: publications
+  #- name: talks
   - name: research
+  - name: friends
 
 nav_links:
   - name: blog
