@@ -7,7 +7,6 @@ permalink: /about/
 
 ## About 
 
-{% for member in site.data.pi %}
 <div class="jumbotron">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ site.data.about.photo }}" width="50%" style="max-width:250px;min-width:100px"/>
 <h3>{{ site.data.about.name }}</h3>
