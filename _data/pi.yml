@@ -1,0 +1,22 @@
+- name: Yunhao Cao
+  photo: headshot.jpg
+  info: Undergraduate studying CS @ UC Berkeley
+  email: 
+  github: https://github.com/ToiletCommander
+  researchgate: 
+  scholar: 
+  cv: 
+  # Change the number below to the number of "educations" you have (up to 6)
+  number_educ: 1
+  education1: "(2024) B.A. Computer Science, University of California - Berkeley"
+  # education2: 
+  # education3: 
+  # education4: 
+  # education5: 
+  # education6: 
+  education1short: (2024) B.A. Computer Science, UC Berkeley
+  # education2short: 
+  # education3short: 
+  # education4short: 
+  # education5short: 
+  # education6short: 
