@@ -8,5 +8,5 @@ gem "kramdown-parser-gfm"
 gem "webrick", "~> 1.7"
 
 group :jekyll_plugins do
-  gem 'jekyll-asciidoc', '~> 7.1.2'
+  gem 'jekyll-scholar', '~> 7.1.2'
 end
