@@ -23,6 +23,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/{{page.name}}">{{page.name | capitalize }}</a>
            </li> 
           {% endfor %}
+          {% for link_item in site.nav_links %}
+           <li class="nav-item">
+            <a class="nav-link" href="{{ link_item.link }}">{{link_item.name | capitalize }}</a>
+           </li> 
+          {% endfor %}
         </ul>
   </div>
 </nav>

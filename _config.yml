@@ -26,6 +26,13 @@ nav_pages:
   - name: talks
   - name: research
 
+nav_links:
+  - name: blog
+    link: /blog/
+  - name: notes
+    link: /Opensourced-Study-Notes-Berkeley/
+
+  
 
 include:
   - .htaccess
