@@ -33,9 +33,16 @@ iframe {
 ## Research
 
 <div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Research #1</h4>
+### Research #1 Applying Deep Reinforcement Learning in Autonomous Driving
 
-Comming soon...
+![Carla Simulator]({{ site.url }}{{ site.baseurl }}/images/research/carla.jpg){: .align-center}
+
+In the [ROAR](https://roar.berkeley.edu/) lab, I apply the SAC Deep Reinforcement Learning Agent with a Resnet architecture to autonomous driving environments inside the Carla simulator.
 </div>
+
+<div class="jumbotron">
+### Research #2
+
+More research coming soon!
+
 </div>
