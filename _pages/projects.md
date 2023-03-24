@@ -47,6 +47,17 @@ In this project, I implemented a CPU-based ray-traced renderer that can render c
 
 <div class="col-sm-12 col-md-6 col-lg-4">
 
+#### Pathtracer-2
+
+![Pathtracer](https://www.quantumcookie.xyz/Opensourced-Study-Notes-Berkeley/CS184/proj3-2-pathtracer-writeup/images/CBdragon.png){: .align-center width="100%" style="max-width:400px"}
+
+In this project, I further extended Pathtracer-1 to support Microfacet(rough-surface) materials, glass materials and mirror materials.
+
+<a class="btn btn-primary" href="https://www.quantumcookie.xyz/Opensourced-Study-Notes-Berkeley/CS184/proj3-2-pathtracer-writeup/" target="_blank">Read More</a>
+</div>
+
+<div class="col-sm-12 col-md-6 col-lg-4">
+
 #### SIXT33N Voice-controlled Car
 
 ![SIXT33N]({{ site.url }}{{ site.baseurl }}/images/projects/eecs16b-car.png){: .align-center width="100%" style="max-width:400px"}
