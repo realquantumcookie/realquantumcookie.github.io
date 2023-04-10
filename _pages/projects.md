@@ -58,6 +58,17 @@ In this project, I further extended Pathtracer-1 to support Microfacet(rough-sur
 
 <div class="col-sm-12 col-md-6 col-lg-4">
 
+#### ClothSim
+
+![ClothSim](https://www.quantumcookie.xyz/Opensourced-Study-Notes-Berkeley/CS184/proj4-clothsim-writeup/img/task5_4_cloth.png){: .align-center width="100%" style="max-width:400px"}
+
+In this project, I wrote a physics engine that simulates clothing materials. I also implemented shaders to render the cloth (and environments) in real-time.
+
+<a class="btn btn-primary" href="https://www.quantumcookie.xyz/Opensourced-Study-Notes-Berkeley/CS184/proj4-clothsim-writeup/" target="_blank">Read More</a>
+</div>
+
+<div class="col-sm-12 col-md-6 col-lg-4">
+
 #### SIXT33N Voice-controlled Car
 
 ![SIXT33N]({{ site.url }}{{ site.baseurl }}/images/projects/eecs16b-car.png){: .align-center width="100%" style="max-width:400px"}
