@@ -69,6 +69,18 @@ In this project, I wrote a physics engine that simulates clothing materials. I a
 
 <div class="col-sm-12 col-md-6 col-lg-4">
 
+#### ClothingMC
+
+![ClothingMC]({{ site.url }}{{ site.baseurl }}/images/projects/clothing-mc.jpg){: .align-center width="100%" style="max-width:400px"}
+
+In this project, we wrote a physics-based cloak simulation mod in Minecraft. The cloak is made of cubical meshes with $32 \times 20$ by size and is simulated by a mass-spring system.
+
+<a class="btn btn-primary" href="https://www.quantumcookie.xyz/Opensourced-Study-Notes-Berkeley/CS184/final-proj-report/" target="_blank">Read Project Report</a>
+
+</div>
+
+<div class="col-sm-12 col-md-6 col-lg-4">
+
 #### SIXT33N Voice-controlled Car
 
 ![SIXT33N]({{ site.url }}{{ site.baseurl }}/images/projects/eecs16b-car.png){: .align-center width="100%" style="max-width:400px"}
