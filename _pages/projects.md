@@ -12,6 +12,18 @@ permalink: /projects/
 <div class="row">
 <div class="col-sm-12 col-md-6 col-lg-4">
 
+#### ROAR_PY
+
+![ROAR_PY]({{ site.url }}{{ site.baseurl }}/images/projects/roar_py.jpg){: .align-center width="100%" style="max-width:400px"}
+
+I led the development of [ROAR lab](https://roar.berkeley.edu/)'s new control suite `ROAR_PY`: a streamable, gymnasium compatible control suite that unifies control of vehicles / reading of sensors in simulation and in real world for any robots. The project is currently in active development and is used by the lab for research and teaching.
+
+<a class="btn btn-primary" href="https://github.com/FHL-VIVE-Center-for-Enhanced-Reality/ROAR_PY" target="_blank">Github Repo</a> <a class="btn btn-primary" href="https://roar.gitbook.io/roar_py-documentation/" target="_blank">Read Documentation</a>
+
+</div>
+
+<div class="col-sm-12 col-md-6 col-lg-4">
+
 #### Rasterizer
 
 ![Rasterizer](https://www.quantumcookie.xyz/Opensourced-Study-Notes-Berkeley/CS184/proj1-rasterizer-writeup/images/task6-nearest-l0.png){: .align-center width="100%" style="max-width:400px"}
