@@ -35,7 +35,7 @@ iframe {
 <div class="jumbotron">
 ### Research #1 
 
-** Applying Deep Reinforcement Learning in Autonomous Driving **
+**Applying Deep Reinforcement Learning in Autonomous Driving**
 
 ![Carla Simulator]({{ site.url }}{{ site.baseurl }}/images/research/carla.jpg){:width="100%" .align-center}
 
