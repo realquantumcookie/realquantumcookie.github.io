@@ -18,7 +18,7 @@ permalink: /projects/
 
 I led the development of [ROAR lab](https://roar.berkeley.edu/)'s new control suite `ROAR_PY`: a streamable, gymnasium compatible control suite that unifies control of vehicles / reading of sensors in simulation and in real world for any robots. The project is currently in active development and is used by the lab for research and teaching.
 
-<a class="btn btn-primary" href="https://github.com/FHL-VIVE-Center-for-Enhanced-Reality/ROAR_PY" target="_blank">Github Repo</a> <a class="btn btn-primary" href="https://roar.gitbook.io/roar_py-documentation/" target="_blank">Read Documentation</a>
+<a class="btn btn-primary" href="https://github.com/augcog/ROAR_PY" target="_blank">Github Repo</a> <a class="btn btn-primary" href="https://roar.gitbook.io/roar_py-documentation/" target="_blank">Read Documentation</a>
 
 </div>
 
