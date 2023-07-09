@@ -16,4 +16,8 @@ permalink: /friends/
 
 [Meteor's Blog](https://www.ghl.info/)
 
+[Carl Gan](https://carlgan.com/)
+
+[Phyllali's blog](https://blog.phyllali.club/)
+
 </div>
