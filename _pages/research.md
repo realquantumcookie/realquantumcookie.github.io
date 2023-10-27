@@ -32,6 +32,8 @@ iframe {
 
 ## Research
 
+> Note as of 2023-10-26: I haven't updated this for a while now since June and will do so soon. I've been working on a lot of cool stuff since then!
+
 <div class="jumbotron">
 ### Research #1 
 
