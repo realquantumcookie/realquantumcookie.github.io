@@ -1,4 +1,4 @@
-remote_theme: ToiletCommander/academic-website-template
+remote_theme: realquantumcookie/academic-website-template
 
 title: Yunhao Cao
 email: 
@@ -28,12 +28,8 @@ nav_pages:
   - name: friends
 
 nav_links:
-  - name: blog
-    link: /blog/
   - name: notes
     link: /Opensourced-Study-Notes-Berkeley/
-
-  
 
 include:
   - .htaccess
