@@ -10,6 +10,19 @@ permalink: /projects/
 ### Projects with Writeups / Presentations
 
 <div class="row">
+
+<div class="col-sm-12 col-md-6 col-lg-4">
+
+#### ROAR_PY_RL
+
+![ROAR_PY_RL]({{ site.url }}{{ site.baseurl }}/images/research/carla.jpg){: .align-center width="100%" style="max-width:400px"}
+
+I led the reinforcement learning research effort of autonomous racing in the [ROAR lab](https://roar.berkeley.edu/). We used the Stable Baseline library with the Carla simulator to train an SAC agent to drive autonomously in the Carla simulator. The agent is able to drive at 150 km/h in the simulator. The research effort is still ongoing and we're working towards a more stable and robust agent with new algorithms and environment modifications.
+
+<a class="btn btn-primary" href="https://github.com/augcog/ROAR_PY_RL" target="_blank">Github Repo</a> <a class="btn btn-primary" href="https://roar.gitbook.io/roar_py_rl-documentation/" target="_blank">Read Documentation</a>
+
+</div>
+
 <div class="col-sm-12 col-md-6 col-lg-4">
 
 #### ROAR_PY
@@ -20,6 +33,16 @@ I led the development of [ROAR lab](https://roar.berkeley.edu/)'s new control su
 
 <a class="btn btn-primary" href="https://github.com/augcog/ROAR_PY" target="_blank">Github Repo</a> <a class="btn btn-primary" href="https://roar.gitbook.io/roar_py-documentation/" target="_blank">Read Documentation</a>
 
+</div>
+
+<div class="col-sm-12 col-md-6 col-lg-4">
+#### NanoGPT HW Set
+
+![NanoGPT]({{ site.url }}{{ site.baseurl }}/images/projects/nanogpt.webp){: .align-center width="100%" style="max-width:400px"}
+
+I (with two other friends) created a HW problem set around a lightweight GPT-2 implementation, [NanoGPT](https://github.com/karpathy/nanoGPT). This project is a rich, self-contained Jupyter notebook packed with tutorials and video resources to help students build a lightweight GPT implementation (including a BPE tokenizer, a GPT-2 model based on the Causal Transformer architecture) from scratch. This project also includes a lightweight autograder solution.
+
+<a class="btn btn-primary" href="https://github.com/KevinLiu819/CS182_FP_Final">Github Repo</a>
 </div>
 
 <div class="col-sm-12 col-md-6 col-lg-4">
