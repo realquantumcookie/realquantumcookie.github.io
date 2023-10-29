@@ -32,23 +32,23 @@ iframe {
 
 ## Research
 
-> Note as of 2023-10-26: I haven't updated this for a while now since June and will do so soon. I've been working on a lot of cool stuff since then!
+<div class="jumbotron">
+### DRL for Quadrupedal Locomotion
+
+![Go1 Robot]({{ site.url }}{{ site.baseurl }}/images/research/go1_grass.jpg){:width="100%" .align-center}
+
+<a class="btn btn-primary" href="https://sites.google.com/berkeley.edu/aprl/" target="_blank">Project Website</a>
+
+</div>
 
 <div class="jumbotron">
-### Research #1 
-
-**Applying Deep Reinforcement Learning in Autonomous Driving**
+### DRL for Autonomous Racing
 
 ![Carla Simulator]({{ site.url }}{{ site.baseurl }}/images/research/carla.jpg){:width="100%" .align-center}
 
-In the [ROAR lab](https://roar.berkeley.edu/), I research methods of applying Deep Reinforcement Learning Agents to autonomous driving environments.
+As a project inside the [ROAR Lab](https://roar.berkeley.edu), I led the research of developing low-latency, robust, vision-language based methods to perform autonomous racing through representation learning and reinforcement learning. A blog in the ROAR will come soon.
 
-We work on both sim and real environments. For sim environments, we use the [Carla Simulator](https://carla.org/). For real environments, we build our own little toy racer cars. The control suite that I led the development of, `ROAR_PY`, is used to control both the sim and real environments.
-</div>
-
-<div class="jumbotron">
-### Research #2
-
-More research information coming soon!
 
 </div>
+
+

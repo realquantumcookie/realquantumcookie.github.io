@@ -4,6 +4,10 @@
 # - date: 1 January, 1940
 #   headline: "Example news here"
 
+-
+  date: 29 October, 2023
+  headline: "<a href=\"https://sites.google.com/berkeley.edu/aprl/\">APRL</a>, the project I've been working for over a year, has been released to arxiv"
+
 - 
   date: 23 June, 2023
   headline: "<a href=\"https://github.com/augcog/ROAR_PY\">ROAR_PY</a>, the project I led at the ROAR lab, hit a major milestone to support streaming"
