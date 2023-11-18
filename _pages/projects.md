@@ -17,9 +17,9 @@ permalink: /projects/
 
 ![Go1 Quadruped]({{ site.url }}{{ site.baseurl }}/images/research/go1_grass.jpg){: .align-center width="100%" style="max-width:400px"}
 
-I co-first authored this paper. The abstract is below:
+I co-first authored this paper:
 
-Deep reinforcement learning (RL) can enable robots to autonomously acquire complex behaviors, such as legged locomotion. However, RL in the real world is complicated by constraints on efficiency, safety, and overall training stability, which limits its practical applicability. We present APRL, a policy regularization framework that modulates the robot's exploration over the course of training, striking a balance between flexible improvement potential and focused, efficient exploration. APRL enables a quadrupedal robot to efficiently learn to walk entirely in the real world within minutes and continue to improve with more training where prior work saturates in performance. We demonstrate that continued training with APRL results in a policy that is substantially more capable of navigating challenging situations and is able to adapt to changes in dynamics with continued training. 
+Deep reinforcement learning can enable robots to autonomously acquire complex behaviors, such as legged locomotion. However, RL in the real world is complicated by constraints on efficiency, safety, and overall training stability, which limits its practical applicability. APRL is a policy regularization framework that modulates the robot's exploration over the course of real-world training, striking a balance between flexible improvement potential and focused, efficient exploration. It enables a quadrupedal robot to efficiently learn to walk entirely in the real world within minutes and continue to improve and adapt to deifferent scenarios with more training where prior work saturates in performance. 
 
 <a class="btn btn-primary" href="https://sites.google.com/berkeley.edu/aprl/" target="_blank">Project Website</a> <a class="btn btn-primary" href="https://arxiv.org/abs/2310.17634" target="_blank">Arxiv</a>
 
@@ -146,9 +146,9 @@ For this project, I built a voice-controlled car using an Launchpad SIXT33N. Me 
 
 ![Darbots Final Robot]({{ site.url }}{{ site.baseurl }}/images/projects/darbots_skystone_final.jpg){: .align-center width="100%" style="max-width:400px"}
 
-I served as the team leader one year each for my high school FTC robotics team's varsity team (4100) and junior varsity team (5100). During my time there, I developed a suite of robotics libraries that supports asynchronous sensor updates, motion profiling, pure pursuit, object detection, etc. I also worked on the mechanical design of the robot, overall management of task assignment, journal keeping (for the engineering notebook), outreach, and presentation.
+I served as the team captain one year each for my high school FTC robotics team's varsity team (4100) and junior varsity team (5100). During my time there, I developed a suite of robotics libraries that supports asynchronous sensor updates, motion profiling, pure pursuit, object detection, etc. I also worked on the mechanical design of the robot, overall management of task assignment, journal keeping (for the engineering notebook), outreach, and presentation.
 
-After I left the team, I volunteered at three FTC events in China, one time as a inspector and two times as the head referee.
+After I left the team, I volunteered at three FTC events in China, one time as an inspector and two times as the head referee.
 
 <a class="btn btn-primary" href="https://youtu.be/UDJrd6aulxk?si=9wrcmNcuGuThwnbY" target="_blank">View Video</a>
 
