@@ -13,6 +13,20 @@ permalink: /projects/
 
 <div class="col-sm-12 col-md-6 col-lg-4">
 
+#### APRL
+
+![Go1 Quadruped]({{ site.url }}{{ site.baseurl }}/images/research/go1_grass.jpg){: .align-center width="100%" style="max-width:400px"}
+
+I co-first authored this paper. The abstract is below:
+
+Deep reinforcement learning (RL) can enable robots to autonomously acquire complex behaviors, such as legged locomotion. However, RL in the real world is complicated by constraints on efficiency, safety, and overall training stability, which limits its practical applicability. We present APRL, a policy regularization framework that modulates the robot's exploration over the course of training, striking a balance between flexible improvement potential and focused, efficient exploration. APRL enables a quadrupedal robot to efficiently learn to walk entirely in the real world within minutes and continue to improve with more training where prior work saturates in performance. We demonstrate that continued training with APRL results in a policy that is substantially more capable of navigating challenging situations and is able to adapt to changes in dynamics with continued training. 
+
+<a class="btn btn-primary" href="https://sites.google.com/berkeley.edu/aprl/" target="_blank">Project Website</a> <a class="btn btn-primary" href="https://arxiv.org/abs/2310.17634" target="_blank">Arxiv</a>
+
+</div>
+
+<div class="col-sm-12 col-md-6 col-lg-4">
+
 #### ROAR_PY_RL
 
 ![ROAR_PY_RL]({{ site.url }}{{ site.baseurl }}/images/research/carla.jpg){: .align-center width="100%" style="max-width:400px"}

@@ -16,8 +16,10 @@ permalink: /friends/
 
 [Meteor's Blog](https://www.ghl.info/)
 
+[Phyllali's blog](https://blog.phyllali.club/)
+
 [Carl Gan](https://carlgan.com/)
 
-[Phyllali's blog](https://blog.phyllali.club/)
+[Chengyi(Lux) Zhang](https://cyluxz.netlify.app)
 
 </div>

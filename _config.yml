@@ -23,7 +23,7 @@ contact: >
 nav_pages: 
   - name: publications
   #- name: talks
-  - name: research
+  #- name: research
   - name: projects
   - name: friends
 
