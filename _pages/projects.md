@@ -140,6 +140,20 @@ For this project, I built a voice-controlled car using an Launchpad SIXT33N. Me 
 
 </div>
 
+<div class="col-sm-12 col-md-6 col-lg-4">
+
+#### Darbots
+
+![Darbots Final Robot]({{ site.url }}{{ site.baseurl }}/images/projects/darbots_skystone_final.jpg){: .align-center width="100%" style="max-width:400px"}
+
+I served as the team leader one year each for my high school FTC robotics team's varsity team (4100) and junior varsity team (5100). During my time there, I developed a suite of robotics libraries that supports asynchronous sensor updates, motion profiling, pure pursuit, object detection, etc. I also worked on the mechanical design of the robot, overall management of task assignment, journal keeping (for the engineering notebook), outreach, and presentation.
+
+After I left the team, I volunteered at three FTC events in China, one time as a inspector and two times as the head referee.
+
+<a class="btn btn-primary" href="https://youtu.be/UDJrd6aulxk?si=9wrcmNcuGuThwnbY" target="_blank">View Video</a>
+
+</div>
+
 </div>
 
 ### Projects without Writeups / Presentations
