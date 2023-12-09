@@ -161,6 +161,48 @@ After I left the team, I volunteered at three FTC events in China, one time as a
 <div class="row">
 <div class="col-sm-12 col-md-6 col-lg-4">
 
+#### FPGA RISC-V CPU
+
+![EECS151CPU]({{ site.url }}{{ site.baseurl }}/images/projects/eecs151cpu_diag_final.drawio.png){: .align-center width="100%" style="max-width:400px"}
+![EECS151Board]({{ site.url }}{{ site.baseurl }}/images/projects/eecs151_z1_top_annotated.png){: .align-center width="100%" style="max-width:400px"}
+
+For this project in EECS151LB, I implemented a 3-stage pipelined RISC-V CPU with the Verilog HDL. I tested this cpu on an AMD Xilinx PYNQ-Z1 board with a core clock frequency of 75MHz. The CPU supports the RV32I ISA as well as a subset of CSR instructions. The modifications made to the CPU that is different from the CS61CPU project are:
+
+1. It is a synchronous-memory CPU, which means that the CPU has to prefetch instruction during the IF stage.
+2. It includes a bunch of IO-mapped memory addresses that can be used to detect button presses, control LEDs, and control the audio output.
+3. It includes an memory-mapped UART module that can be used to communicate with the host computer. A simple BIOS program provided by the class can be used to communicate with the host computer and write programs to the memory. Then the CPU can execute the program.
+4. It includes an always-taken branch predictor.
+
+</div>
+<div class="col-sm-12 col-md-6 col-lg-4">
+
+#### Pintos
+
+![CS162 Panic]({{ site.url }}{{ site.baseurl }}/images/projects/cs162_panic.jpg){: .align-center width="100%" style="max-width:400px"}
+
+For this project in CS162, I implemented part of an operating system called Pintos. The OS supports multi-threading, virtual memory, FFS file system, and user programs. The OS is written in C and x86 assembly.
+The parts I implemented (with my team) are:
+1. User program setup and syscall handling
+   1. Parsing user program arguments and passing them onto the user stack
+   2. Setting up stack and heap for the user program
+   3. Initializing PCB and passing load information to the PCB
+   4. Sleeping the parent process, passing info to the parent process waiting on the child process to load, and waking up the parent process
+   5. Implementing `wait`, `exec`, `exit`, `sbrk`
+   6. Implementing FPU context initialization, saving, and restoring
+2. File System
+   1. Implemented fs cache blocks using LRU eviction policy, free map, extensible inode, directory structures, and file structure
+   2. Implemented file system calls `create`, `remove`, `open`, `close`, `read`, `write`, `seek`, `tell`, `filesize`, `mkdir`, `readdir`, `isdir`, `inumber`, `chdir`
+3. Multithreading
+   1. Implemented thread scheduling using priority scheduling
+   2. Implemented thread `alarm` system call
+   3. Implemented user level threads
+      1. Designing and implementing thread control block
+      2. Designing and implementing kernel level user thread trapping (to allow user threads to get terminated by the kernel)
+      3. Implementing pthread library functions `pthread_create`, `pthread_exit`, `pthread_join`, `pthread_mutex_init`, `pthread_mutex_lock`, `pthread_mutex_unlock`, `pthread_sema_init`, `pthread_sema_up`, `pthread_sema_down`.
+
+</div>
+
+<div class="col-sm-12 col-md-6 col-lg-4">
 #### UGBA 96 Clectricity
 ![Clectricity]({{ site.url }}{{ site.baseurl }}/images/projects/ugba96.png){: .align-center width="100%" style="max-width:400px"}
 
