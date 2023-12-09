@@ -163,12 +163,14 @@ After I left the team, I volunteered at three FTC events in China, one time as a
 
 #### FPGA RISC-V CPU
 
-![EECS151CPU]({{ site.url }}{{ site.baseurl }}/images/projects/eecs151cpu_diag_final.drawio.png){: .align-center width="100%" style="max-width:400px"}
 ![EECS151Board]({{ site.url }}{{ site.baseurl }}/images/projects/eecs151_z1_top_annotated.png){: .align-center width="100%" style="max-width:400px"}
 
 For this project in EECS151LB, I implemented a 3-stage pipelined RISC-V CPU with the Verilog HDL. I tested this cpu on an AMD Xilinx PYNQ-Z1 board with a core clock frequency of 75MHz. The CPU supports the RV32I ISA as well as a subset of CSR instructions. <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#eecs151Detail" aria-expanded="false" aria-controls="eecs151Detail">More</button>
 
 <div class="collapse" id="eecs151Detail">
+
+![EECS151CPU]({{ site.url }}{{ site.baseurl }}/images/projects/eecs151cpu_diag_final.drawio.png){: .align-center width="100%" style="max-width:400px"}
+
 The modifications made to the CPU that is different from the CS61CPU project are:
 
 1. It is a synchronous-memory CPU, which means that the CPU has to prefetch instruction during the IF stage.
