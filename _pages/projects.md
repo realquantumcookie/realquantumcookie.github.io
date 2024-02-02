@@ -50,6 +50,20 @@ I led the development of [ROAR lab](https://roar.berkeley.edu/)'s new control su
 </div>
 
 <div class="col-sm-12 col-md-6 col-lg-4">
+#### OrangeRL
+
+![NanoGPT]({{ site.url }}{{ site.baseurl }}/images/projects/orangerl.jpg){: .align-center width="100%" style="max-width:400px"}
+
+With procedual and extensible class definitions, OrangeRL decouples the problem of RL from deep neural network function approximators and decouples an agent interface from the underlying backend. 
+
+Furthermore, OrangeRL is designed with supporting sequence models in mind.
+
+Currently it only supports the SAC algorithm with PyTorch backend but more algorithms are coming soon.
+
+<a class="btn btn-primary" href="https://github.com/realquantumcookie/OrangeRL">Github Repo</a>
+</div>
+
+<div class="col-sm-12 col-md-6 col-lg-4">
 #### NanoGPT HW Set
 
 ![NanoGPT]({{ site.url }}{{ site.baseurl }}/images/projects/nanogpt.webp){: .align-center width="100%" style="max-width:400px"}
