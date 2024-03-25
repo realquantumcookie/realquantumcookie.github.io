@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /Opensourced-Study-Notes-Berkeley/*.pdf$
